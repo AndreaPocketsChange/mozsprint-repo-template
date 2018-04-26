@@ -1,10 +1,17 @@
 # Money Talks and So Should We: Personal Assessment Tools for Finance Education
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+Welcome! 
 
-[ If you have one, add your logo or an image here ]
+Hey, thanks for visiting the Money Talks Personal Assessment Tools project repository. 
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+This page (our README file) lays out what we’re aiming to do and how you can join in the project. You can jump around the sections with the links below or scroll through. Reach out with any questions, we’d love to hear from you! 
+
+What are we doing? (And why?) 
+Who are we? 
+How can you join in? 
+Get in touch
+Find out more
+Understand the jargon
 
 ## Getting Started
 
