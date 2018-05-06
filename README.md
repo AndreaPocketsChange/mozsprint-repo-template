@@ -17,11 +17,17 @@ This page (our README file) lays out what we’re aiming to do and how you can j
 
 ## What are we doing? (And Why?) 
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+At Pockets Change we’re changing the way money is taught. We combine Hip Hop, Finance, and Design Thinking to build financial capability in K-12 and early adulthood.
 
-## Contributing
+Our workshops and lessons are a start but useful and accessible finance personal assessments are severely lacking in education. Those that exist do little to support the development of self-efficacy and understanding, rather they focus on calculating compound interest and other out of date skills. Let’s build them!!
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+## Who are we?
+
+We're here to help make it easier and more fun to teach and learn about finances. At the end of the day, it's not about knowing how to fill in a budget sheet, it's about developing financial habits and strategies that resonate with your personal identity. 
+
+We're a team of two educators, Andrea Ferrero & Dyalekt, and one CERTIFIED FINANCIAL PLANNER™, Pamela Capalad. We travel across the country researching, developing, and sharing lessons, workshops, and professional development that educates and empowers students, teachers, and families.  
+
+[Learn More About Us](http://www.pocketschange.com/meet-the-team)
 
 ## Participation Guidelines
 
