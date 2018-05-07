@@ -7,11 +7,11 @@ Hey, thanks for visiting the Money Talks Personal Assessment Tools project repos
 This page (our README file) lays out what we’re aiming to do and how you can join in the project. You can jump around the sections with the links below or scroll through. Reach out with any questions, we’d love to hear from you! 
 
 * [What are we doing? (And why?)](##what-are-we-doing-and-why)
-* Who are we? 
-* What do we need? 
-* How can you join in? 
-* Get in touch
-* Understand the jargon
+* [Who are we?](##who-are-we)
+* [What do we need?](##what-do-we-need) 
+* [How can you join in?](##how-can-you-join-in)
+* [Get in touch](##get-in-touch)
+* [Understand the jargon](##understand-the-jargon)
 
 ## What are we doing? (And Why?) 
 
