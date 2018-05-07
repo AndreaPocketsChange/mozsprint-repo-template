@@ -48,7 +48,7 @@ We're excited to hear your thoughts and feedback. Reach out and connect with us 
 
 If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're sure you can) then please check out our contributors' guidelines and our [roadmap](https://docs.google.com/document/d/1BWCR2SFvC4vFjjyQ59Q0kO_Yo8iO_NWd6TuTvV_-D48/edit).
 
-Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct in all interactions both on and offline.
+Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/) in all interactions both on and offline.
 
 THANK YOU! 
 
