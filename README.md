@@ -40,8 +40,8 @@ We need quiz lovers, evaluation researchers, learners, educators, designers, and
 
 ## How can you join in? 
 
-* Everyone as learners, Try out one of the three tool prototypes and share feedback on the experience. 
-* Educators, Share feedback on the summary of finance learning standards and our guide to creating assessments. Are they approachable? Is there an important topic or concept we missed? 
+* Everyone as learners, Try out one of the tool prototypes and share feedback on the experience. 
+* Educators and Evaluation Researchers, Share feedback on the summary of finance learning standards and our guide to creating assessments. Are they approachable? Is there an important topic or concept we missed? 
 * Designers and Programmers, Share suggestions for the architecture of tool prototypes.
 
 We're excited to hear your thoughts and feedback. Reach out and connect with us on [Twitter](https://twitter.com/PocketsChange). You can check out our issues page for specific ways to contribute to each of the project elements described. Each issue explains where and how to make a particular contribution. 
