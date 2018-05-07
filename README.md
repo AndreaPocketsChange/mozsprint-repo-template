@@ -59,8 +59,8 @@ Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11
 ![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
 
 ## Get in touch
-Twitter: @PocketsChange
-Email: andrea@pocketschange.com 
+* [Twitter: @PocketsChange](https://twitter.com/PocketsChange)
+* [Email: andrea@pocketschange.com](andrea@pocketschange.com) 
 
 ## Glossary
 * Personal Finance: Managing money and the financial decisions that go with it in life 
