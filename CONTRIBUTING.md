@@ -1,4 +1,4 @@
-# Contributing to [Project]
+# Contributing to Money Talks:Personal Assessment Tools for Finance
 
 >Thank you for your interest in contributing to Money Talks:Personal Assessment Tools for Finance :tada:! 
 
